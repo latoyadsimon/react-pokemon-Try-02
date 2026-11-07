@@ -1,0 +1,14 @@
+11/07/2026
+
+Trying this project a second time
+1. if the project is already forked, and the repo hasn't been changed with new pushes, clone a new copy to the local machine.
+2. create a new repo on github
+3. use the terminal command: 
+
+git remote set-url origin https://github.com
+
+*Change the url to the new github repo url. 
+
+Result: Now this is a copy that you can push to without messing up the old version. 
+**Use case, completely start over but save the old folder for future reference. 
+
