@@ -12,3 +12,6 @@ git remote set-url origin https://github.com
 Result: Now this is a copy that you can push to without messing up the old version. 
 **Use case, completely start over but save the old folder for future reference. 
 
+The link to the slack video posted by the Instructor for the in class demo:
+
+https://codeplatoonteam.slack.com/files/U038LCD7D4Z/F0CGN6Q4E3S/gmt20261105-221934_recording_as_1920x1080.mp4
